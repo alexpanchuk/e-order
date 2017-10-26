@@ -1,0 +1,21 @@
+{
+  "name": "e-order",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "chance": "^1.0.10",
+    "date-fns": "^1.28.5",
+    "faker": "^4.1.0",
+    "koa": "^2.2.0",
+    "koa-body": "^2.1.0",
+    "koa-logger": "^3.0.0",
+    "koa-mount": "^3.0.0",
+    "koa-router": "^7.2.1",
+    "koa-static": "^3.0.0",
+    "ramda": "^0.24.1",
+    "tcomb": "^3.2.20",
+    "tcomb-validation": "^3.3.0",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {}
+}

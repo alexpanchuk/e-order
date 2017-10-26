@@ -1,0 +1,228 @@
+[33mcommit e836de0234b5f58fd7fe4208a871cff8187b2230[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Sun Aug 13 16:15:24 2017 +0500
+
+    update comments
+
+[33mcommit 159a5b88643584ee829c5feb48d063d574d568f2[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Sun Aug 13 16:06:55 2017 +0500
+
+    test
+
+[33mcommit e0077da514f567fd7a99b78993624a85a5703650[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Thu Jun 22 16:35:41 2017 +0500
+
+    comment unnessesaty require
+
+[33mcommit f98d1524294ec48bde1d9e0ff3ec3e25091d51e0[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Tue Jun 20 17:21:32 2017 +0500
+
+    typo
+
+[33mcommit c0935df7ccb893b783477b0a170898062b188a9b[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Tue Jun 20 15:51:25 2017 +0500
+
+    add validation
+
+[33mcommit 6c5fe1486a4f073fc114e872e7f9487ed07d84ff[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Tue Jun 20 13:27:18 2017 +0500
+
+    validation
+
+[33mcommit ee63d88a75e37067ccb9bbb6c7cae05080c6e0b3[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Tue Jun 20 10:02:17 2017 +0500
+
+    cover make-function into tcomb type
+
+[33mcommit 266caa237cd63fa7e22965adb974cb80f045eedc[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Tue Jun 20 09:51:11 2017 +0500
+
+    add makeUsers and makeProduct functions
+
+[33mcommit 03a27c994ea190261cd62ff4ce04d19f2fb3dbc0[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Mon Jun 19 07:21:01 2017 +0500
+
+    remove visitor role
+
+[33mcommit 46da404e48251f6fe3249e198e07ce3570fdbe3a[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Mon Jun 19 07:17:28 2017 +0500
+
+    rename module
+
+[33mcommit ae46e17cd6fbec127f2a90e1a24c08330a58c39a[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Mon Jun 19 07:15:10 2017 +0500
+
+    start validation.js
+
+[33mcommit 620646af409215d3fdf67bf58c7d689bf7a2ef8d[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Mon Jun 19 07:12:07 2017 +0500
+
+    review fixes
+
+[33mcommit cd082bd1be052ade89340472781363a9d3e06836[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Mon Jun 19 05:40:47 2017 +0500
+
+    fixes after review
+
+[33mcommit e23f4f998baec559899dd59d8e9d4e8ef944ab09[m
+Merge: fe65132 e13f862
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Mon Jun 19 05:11:33 2017 +0500
+
+    move router.js, export 1 obj from db
+
+[33mcommit fe65132372f796543fd2e218758076ce52cc50c7[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Sun Jun 18 12:32:33 2017 +0500
+
+    add koa-logger
+
+[33mcommit 16f3839a892f04d8f5491bb6ef1dc295a66a4fd7[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Sun Jun 18 12:31:54 2017 +0500
+
+    add APIs
+
+[33mcommit e13f862667718a1ec97eb5d4d2144e2a879addd0[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Sun Jun 18 05:29:27 2017 +0500
+
+    Delete yarn.lock
+
+[33mcommit ebff96ad6237caac516e1fcd10ba5a967c3172ec[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Sun Jun 18 05:28:39 2017 +0500
+
+    remove create-react-app
+
+[33mcommit 3f50e992376c7a19e1e0e9618087872cccb16be0[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Sat Jun 17 06:28:13 2017 +0500
+
+    update README
+
+[33mcommit 4aa9f7802a282a13dae758cd790468ffd4d348b8[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Sat Jun 17 06:26:44 2017 +0500
+
+    update README
+
+[33mcommit df9dd54b8bc4dd573fe907cf281e579059ff91a7[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Sat Jun 17 02:03:06 2017 +0500
+
+    change name
+
+[33mcommit 2719edfc9a7b69fa4872c81365bd2f3a90aac069[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Thu Jun 15 21:27:27 2017 +0500
+
+    Create README.md
+
+[33mcommit 8bf9e60dcbfd83bf81cbda392b766cd2bbfd1d7a[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Thu Jun 15 21:27:17 2017 +0500
+
+    Update README.md
+
+[33mcommit 50b60823d8591c2f005ebb2785ad0ad10845898b[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Thu Jun 15 21:27:03 2017 +0500
+
+    Create README.md
+
+[33mcommit aabf65ab665cfca97f1c5d108c74f2f5efcdecb1[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Thu Jun 15 21:26:05 2017 +0500
+
+    Create README.md
+
+[33mcommit dc360235229258606c1fb6f52a811988d8a7f4e2[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Thu Jun 15 21:25:38 2017 +0500
+
+    Create README.md
+
+[33mcommit 161bec4b9f5108c0e6ca0798c91c40b6b724af0f[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Thu Jun 15 21:25:22 2017 +0500
+
+    Update README.md
+
+[33mcommit 1db17a1e621fd69599ed140ebb3577512e7569c6[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Wed Jun 14 01:45:42 2017 +0500
+
+    update README
+
+[33mcommit df87565524ea6581429c11e8dfd0c036db331e03[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Wed Jun 14 01:42:43 2017 +0500
+
+    update REAMDE
+
+[33mcommit 1e27e8c524db25f0c4530e3ed68fd19949c1dd48[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Sat Jun 10 02:50:04 2017 +0500
+
+    remove unnessesary files
+
+[33mcommit 702e53329cc8efb37dde6d4cc7d1964694bf18f7[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Mon Jun 5 23:51:02 2017 +0500
+
+    review fixes
+
+[33mcommit b2483f1050797e24b4ad5e42093ddb8de68f4cb4[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Mon Jun 5 23:24:14 2017 +0500
+
+    syntax fix
+
+[33mcommit 5598fa03c798f4b6e290089d936b3afa08ad35bf[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Mon Jun 5 23:23:32 2017 +0500
+
+    add question
+
+[33mcommit 4c9809ca510d3e94ce01689a0178144e5e1c1cfd[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Mon Jun 5 23:22:27 2017 +0500
+
+    change Item.product type to Product
+
+[33mcommit 457f4eac71022c0fcfc7fd4ee7508d2008f93b95[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Mon Jun 5 23:20:28 2017 +0500
+
+    add names for types
+
+[33mcommit 5d205357f08d15841cb8610c181933dee64a21c4[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Mon Jun 5 23:15:48 2017 +0500
+
+    update README
+
+[33mcommit 453ae9d8ec85e333064f7142b066834dc115aa5d[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Mon Jun 5 23:15:21 2017 +0500
+
+    update README
+
+[33mcommit d502c32cf896707b8af9c57baeb699b651b32fb9[m
+Author: Alex Panchuk <apanchuk@gmail.com>
+Date:   Mon Jun 5 23:14:00 2017 +0500
+
+    init
