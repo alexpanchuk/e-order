@@ -1,6 +1,6 @@
 # E-order project
 
-Working in progress...
+Archived
 
 ### Идея
 Автоматизация процесса составления и выполнения заказов
